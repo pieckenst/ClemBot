@@ -1,4 +1,4 @@
-aiohttp==3.7.4
+aiohttp==3.8.0
 aiosqlite==0.12.0
 appdirs==1.4.3
 astroid==2.3.3
@@ -36,7 +36,7 @@ msgpack==0.6.2
 multidict==4.7.5
 mypy==0.770
 mypy-extensions==0.4.3
-numpy==1.20.2
+numpy==1.22.2
 packaging==20.4
 pandas==1.2.3
 pbr==5.4.5
