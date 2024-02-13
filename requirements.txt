@@ -5,7 +5,7 @@ astroid==2.3.3
 async-timeout==3.0.1
 asynctest==0.13.0
 attrs==19.3.0
-bandit==1.6.2
+bandit==1.7.7
 CacheControl==0.12.6
 certifi==2020.6.20
 chardet==3.0.4
